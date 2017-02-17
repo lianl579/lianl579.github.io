@@ -1,0 +1,20 @@
+title{
+    font-size: 75px;
+    line-height: 100px;
+    letter-spacing: 6px;
+    font-family: Baskerville
+}
+body{
+    background-color:white;
+    color:c0c0c0;
+    font-size: 27px;
+    line-height: 66px;
+    letter-spacing: 1px;
+    font-family: futura
+}
+
+ul{
+    color:cecccd;
+    font-size:21px;
+    font-family:futura;
+}
