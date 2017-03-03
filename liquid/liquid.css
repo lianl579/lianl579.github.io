@@ -3,7 +3,7 @@ body {
   font-family: futura;
   line-height:2em;
   font-size:18px;
-  padding:36px;
+  padding-left:0px;
 }
 
 header, main {
