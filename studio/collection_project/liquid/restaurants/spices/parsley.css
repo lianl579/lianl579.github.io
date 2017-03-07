@@ -1,0 +1,49 @@
+.logo {
+    position: fixed;
+    top: calc(50vh - 115px);
+    left: calc(50vw - 50px);
+    z-index: 10;
+}
+
+.logo img {
+    width:100px;
+    height:auto;
+}
+
+.myimage {
+    width: 300px;
+    margin-left: calc(50vw + 140px);
+    z-index:0;
+}
+
+
+h1.french-text{
+    color: white;  /* Fallback: assume this color ON TOP of image */
+    background: url(../../picture/text.jpg);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   
+}
+
+h1 {
+    font-size: 81px;
+    letter-spacing: 1px;
+    font-family: futura;
+    margin-top: 33px;
+}
+
+h2{
+    margin-right: calc(50vw + 140px);
+    margin-left: 90px;
+    font-family: futura;
+    top: 170px;
+    position: absolute;
+}
+
+p{
+    margin-right: calc(50vw + 140px);
+    margin-left: 90px;
+    font-family: futura;
+    position: absolute;
+    top: 390px;
+}
