@@ -33,6 +33,14 @@
     height:auto;
 }
 
+
+h1.french-text{
+    color: white;  /* Fallback: assume this color ON TOP of image */
+    background: url(../picture/text.jpg);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
 title{
     font-size: 75px;
     line-height: 100px;
@@ -42,8 +50,7 @@ title{
 body{
     background-color:white;
     color:c0c0c0;
-    font-size: 27px;
-    line-height: 66px;
+    font-size: 66px;
     letter-spacing: 1px;
     font-family: futura
 }

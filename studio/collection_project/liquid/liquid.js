@@ -18,11 +18,11 @@ navItems[5] = document.getElementById("item6");
 // Set the Background Image URL's
 // ** Change the url between the parenthesis to match the url you want for your background image
 backgrounds[0] = "url(picture/french.jpg)";
-backgrounds[1] = "url(https://goo.gl/31iUQA)";
-backgrounds[2] = "url(https://goo.gl/8lC2Df)";
-backgrounds[3] = "url(https://goo.gl/rJJ6fp)";
-backgrounds[4] = "url(https://goo.gl/8lC2Df)";
-backgrounds[5] = "url(https://goo.gl/rJJ6fp)";
+backgrounds[1] = "url(picture/thai.jpg)";
+backgrounds[2] = "url(picture/japanese.jpeg)";
+backgrounds[3] = "url(picture/italian.jpg)";
+backgrounds[4] = "url(picture/chinese.jpg)";
+backgrounds[5] = "url(picture/favorite.jpg)";
 
 
 // add an event listener for each nav item

@@ -4,13 +4,12 @@ html, body, main {
 }
 
 
-body {
-  font-family: futura;
-  line-height:2em;
-  font-size:18px;
-  padding-left:0px;
-  margin-left: 0px;
-  margin-top: 0px;
+nav {
+  font-family: cambria;
+  line-height:2.4em;
+  font-size:36px;
+  color: white;
+  margin-right: 66px;
 }
 
 header, main {
@@ -38,9 +37,11 @@ a {
 }
 
 .left-panel{
+  margin: 0px;
+  padding: 0px;
   width: 25%;
   height: 100%;
-  background-image: url(picture/rose_left.png);
+  background-image: url(picture/rose_left.jpg);
   background-size: cover;
 }
 
@@ -64,7 +65,10 @@ a {
 }
 
 .right-panel{
+  margin: 0px;
+  padding: 0px;
   width:25%;
   height: 100%;
-  background-image: url(picture/rose_right.png);
+  background-image: url(picture/rose_right.jpg);
+  background-size: cover;
 }
