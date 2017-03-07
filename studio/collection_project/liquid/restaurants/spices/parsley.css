@@ -12,7 +12,7 @@
 
 .myimage {
     width: 300px;
-    margin-left: calc(50vw + 140px);
+    left: calc(50vw + 140px);
     z-index:0;
 }
 
@@ -38,6 +38,7 @@ h2{
     font-family: futura;
     top: 170px;
     position: absolute;
+    font-weight: thin;
 }
 
 p{
