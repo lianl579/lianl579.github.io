@@ -3,13 +3,27 @@ html, body, main {
   height: 100%;
 }
 
+body{
+  margin:0;
+  top:0;
+}
 
-nav {
+nav a {
   font-family: cambria;
   line-height:2.4em;
   font-size:36px;
+  
+  text-decoration: none;
   color: white;
   margin-right: 66px;
+}
+
+nav{
+  position: fixed;
+  right: 50px;
+  top: 150px;
+  text-align: right;
+
 }
 
 header, main {
@@ -21,10 +35,7 @@ main {
 }
 
 nav {
-    position: fixed;
-    right: 50px;
-    top: 150px;
-    text-align: right;
+   
 }
 
 a {

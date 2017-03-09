@@ -2,7 +2,7 @@
     display: block;
 	width: 250px;
 	height: 250px;
-	background-image: url('../picture/parsley.png');
+	background-image: url('../picture/curing_salt.png');
 	background-repeat: no-repeat;
 	overflow:hidden;
 	text-indent:100%;
@@ -25,7 +25,7 @@
     display: block;
     width: 400px;
     height: 400px;
-    background-image: url('../picture/basil.png');
+    background-image: url('../picture/black_salt.png');
     background-repeat: no-repeat;
     overflow:hidden;
     text-indent:100%;
@@ -48,7 +48,7 @@
     display: block;
     width: 400px;
     height: 400px;
-    background-image: url('../picture/lavender.png');
+    background-image: url('../picture/hawaiian_pink_sea_salt.png');
     background-repeat: no-repeat;
     overflow:hidden;
     text-indent:100%;
@@ -71,7 +71,7 @@
     display: block;
     width: 250px;
     height: 400px;
-    background-image: url('../picture/thyme.png');
+    background-image: url('../picture/hibiscus_powder.png');
     background-repeat: no-repeat;
     overflow:hidden;
     text-indent:100%;
@@ -94,7 +94,7 @@
     display: block;
     width: 250px;
     height: 250px;
-    background-image: url('../picture/black_pepper.png');
+    background-image: url('../picture/vinegar_powder.png');
     background-repeat: no-repeat;
     overflow:hidden;
     text-indent:100%;
@@ -118,7 +118,7 @@
     display: block;
     width: 250px;
     height: 250px;
-    background-image: url('../picture/sage.png');
+    background-image: url('../picture/strawberry_powder.png');
     background-repeat: no-repeat;
     overflow:hidden;
     text-indent:100%;
