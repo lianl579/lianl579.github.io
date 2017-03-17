@@ -1,0 +1,172 @@
+.button1 {
+    display: block;
+	width: 250px;
+	height: 250px;
+	background-image: url('1.png');
+	background-repeat: no-repeat;
+	overflow:hidden;
+	text-indent:100%;
+	white-space: nowrap;
+    position: absolute;
+	top: 180px;
+	left: calc(50vw + 200px);
+}
+	
+
+.button1:hover {
+	background-position: -250px 0px;
+}
+
+.button1:active {
+	background-position: -500px 0;
+}
+
+.button2 {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-image: url('2.png');
+    background-repeat: no-repeat;
+    overflow:hidden;
+    text-indent:100%;
+    white-space: nowrap;
+    position: absolute;
+    top: 359px;
+    left: calc(50vw + 69px);
+}
+    
+
+.button2:hover {
+    background-position: -200px 0px;
+}
+
+.button2:active {
+    background-position: -400px 0;
+}
+
+.button3 {
+    display: block;
+    width: 150px;
+    height: 1500px;
+    background-image: url('3.png');
+    background-repeat: no-repeat;
+    overflow:hidden;
+    text-indent:100%;
+    white-space: nowrap;
+    position: absolute;
+    top: 522px;
+    left: calc(50vw - 45px);
+}
+    
+
+.button3:hover {
+    background-position: -150px 0px;
+}
+
+.button3:active {
+    background-position: -300px 0;
+}
+
+.button4 {
+    display: block;
+    width: 250px;
+    height: 400px;
+    background-image: url('../picture/thyme.png');
+    background-repeat: no-repeat;
+    overflow:hidden;
+    text-indent:100%;
+    white-space: nowrap;
+    position: absolute;
+    top: 700px;
+    left: calc(50vw - 390px);
+}
+    
+
+.button4:hover {
+    background-position: -250px 0px;
+}
+
+.button4:active {
+    background-position: -500px 0;
+}
+
+.button5 {
+    display: block;
+    width: 250px;
+    height: 250px;
+    background-image: url('../picture/black_pepper.png');
+    background-repeat: no-repeat;
+    overflow:hidden;
+    text-indent:100%;
+    white-space: nowrap;
+    position: absolute;
+    top: 1040px;
+    left: calc(50vw - 390px);
+    margin-bottom: 90px;
+}
+    
+
+.button5:hover {
+    background-position: -250px 0px;
+}
+
+.button5:active {
+    background-position: -500px 0;
+}
+
+.button6 {
+    display: block;
+    width: 250px;
+    height: 250px;
+    background-image: url('../picture/sage.png');
+    background-repeat: no-repeat;
+    overflow:hidden;
+    text-indent:100%;
+    white-space: nowrap;
+    position: absolute;
+    top: 1040px;
+    left: calc(50vw + 140px);
+    margin-bottom: 90px;
+}
+    
+
+.button6:hover {
+    background-position: -250px 0px;
+}
+
+.button6:active {
+    background-position: -500px 0;
+}
+
+.logo {
+    position: fixed;
+    top: calc(50vh - 115px);
+    left: calc(50vw - 50px);
+    z-index: 10;
+}
+
+.logo img {
+    width:100px;
+    height:auto;
+}
+
+
+h1.french-text{
+    color: white;  /* Fallback: assume this color ON TOP of image */
+    background: url(background.jpg);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   font-size: 81px;
+   
+}
+
+h2.color-text{
+    color: white;  /* Fallback: assume this color ON TOP of image */
+    background: url(background2.jpg);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   margin-left: 180px;
+   margin-top: 99px;
+   width: 330px;
+   font-size: 24px;
+}
