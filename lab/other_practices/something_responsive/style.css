@@ -1,0 +1,64 @@
+/*body {
+    background-repeat: no-repeat;
+    background-image: url('1.jpg'); 
+}
+*/
+/* For width 400px and larger: */
+@media (max-width: 599px) {
+    body { 
+       background-image: url('a.jpg'); 
+       background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 749px){
+  body { 
+       background-image: url('b.jpg'); 
+       background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 750px) and (max-width: 899px){
+  body { 
+       background-image: url('c.jpg'); 
+       background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 1049px){
+  body { 
+       background-image: url('d.jpg'); 
+       background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 1050px) and (max-width: 1199px){
+  body { 
+       background-image: url('e.jpg'); 
+       background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1349px){
+  body { 
+       background-image: url('f.jpg'); 
+       background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 1350px){
+  body { 
+       background-image: url('g.jpg'); 
+       background-repeat: no-repeat;
+    }
+}
+
+.text {
+  text-align: center;
+  margin-top:99px;
+  font-family: futura;
+  font-size: 36px;
+  letter-spacing: 66px;
+  color: white;
+  opacity: 0.6;
+}
