@@ -6,49 +6,49 @@
 /* For width 400px and larger: */
 @media (max-width: 599px) {
     body { 
-       background-image: url('a.jpg'); 
+       background-image: url('a.JPG'); 
        background-repeat: no-repeat;
     }
 }
 
 @media (min-width: 600px) and (max-width: 749px){
   body { 
-       background-image: url('b.jpg'); 
+       background-image: url('b.JPG'); 
        background-repeat: no-repeat;
     }
 }
 
 @media (min-width: 750px) and (max-width: 899px){
   body { 
-       background-image: url('c.jpg'); 
+       background-image: url('c.JPG'); 
        background-repeat: no-repeat;
     }
 }
 
 @media (min-width: 900px) and (max-width: 1049px){
   body { 
-       background-image: url('d.jpg'); 
+       background-image: url('d.JPG'); 
        background-repeat: no-repeat;
     }
 }
 
 @media (min-width: 1050px) and (max-width: 1199px){
   body { 
-       background-image: url('e.jpg'); 
+       background-image: url('e.JPG'); 
        background-repeat: no-repeat;
     }
 }
 
 @media (min-width: 1200px) and (max-width: 1349px){
   body { 
-       background-image: url('f.jpg'); 
+       background-image: url('f.JPG'); 
        background-repeat: no-repeat;
     }
 }
 
 @media (min-width: 1350px){
   body { 
-       background-image: url('g.jpg'); 
+       background-image: url('g.JPG'); 
        background-repeat: no-repeat;
     }
 }
